@@ -22,3 +22,8 @@ Este é um projeto de uma "Lista de Tarefas" (To-Do List) simples e funcional, c
 ## Objetivo do Projeto
 
 O principal objetivo deste projeto foi colocar em prática os fundamentos da interação entre JavaScript e HTML, demonstrando a capacidade de criar uma aplicação web dinâmica que responde às ações do usuário em tempo real.
+
+
+## Link do Deploy
+
+https://juaomp.github.io/To-do-list
